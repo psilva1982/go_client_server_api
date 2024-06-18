@@ -34,13 +34,13 @@ git mod tidy
 Executando o **server.go**
 
 ```
-go run server.go
+go run server/server.go
 ```
 
 Em um outro terminal execute o **client.go**
 
 ```
-go run client.go
+go run client/client.go
 ```
 
 Visualize os resultados no SQLite e no arquivo **cotacao.txt**
