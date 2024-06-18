@@ -31,13 +31,13 @@ Baixando os módulos necessários
 git mod tidy
 ```
 
-Executando o **server.go**
+Executando o **server/server.go**
 
 ```
 go run server/server.go
 ```
 
-Em um outro terminal execute o **client.go**
+Em um outro terminal execute o **client/client.go**
 
 ```
 go run client/client.go
